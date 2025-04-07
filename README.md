@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-# markdown-in-one-git
+# Markdown-in-one-git
 Just give me 30 minutes, and I'll show you how to start with Markdown and make a clear mindmap so that you can effectively organize your ideas, create structured documents, and enhance your project documentation on GitHub.
 
 ## Essential links:
@@ -12,11 +12,12 @@ Just give me 30 minutes, and I'll show you how to start with Markdown and make a
 - [Styling](#Styling)
 - [Blockquotes](#Blockquotes)
 - [Images](#Images)
-- [Video:](#Video)
+- [Video:](#Videos)
 - [Lists](#Lists)
+- [Table](#Tables)
 
 
-## similarities between HTML and Markdown:
+## Similarities between HTML and Markdown:
 Before starting I wanna indicate some of the similarities between HTML and Markdown.Cause markdown and html is kinda similar.Also most of the time you're going to use these: 
 
 1. Text Formatting
@@ -56,7 +57,7 @@ Before starting I wanna indicate some of the similarities between HTML and Markd
         HTML: <blockquote>Quote</blockquote>
 
 
-## Headings:
+## Headings
 The more hash you type the smaller it gets:
 
 ```
@@ -70,7 +71,7 @@ The more hash you type the smaller it gets:
 Alternatively, for H1 to H6
 Use "\" instead <br>
 ```
-## Styling:
+## Styling
 ```
 Normal:
 The quick brown fox jumps over the lazy dog.
@@ -98,7 +99,7 @@ Underline : <ins> </ins> :
 
 ```
 
-## Blockquotes:
+## Blockquotes
 ```
 > Reality is merely an `1illusion`, albeit a very persistent one
 ```
@@ -135,7 +136,7 @@ Nested Blockquotes:
 >>>>> Southern oceans
 >>>>>> Indian
 
-## Links:
+## Links
 
 Inline \
 [MySystem0Logical](https://github.com/Mysthological/markdown-in-one-git): Mysthological
@@ -151,7 +152,6 @@ Reference
 ```
 
 Custom anchors:
-
 <a name="my-custom-anchor-point"> custom Anchor</a>
 
 I want to provide a direct link but which doesn't have its own heading.
@@ -159,7 +159,7 @@ I want to provide a direct link but which doesn't have its own heading.
 [A link to that custom anchor](#my-custom-anchor-point)
 
 
-# Images:
+# Images
 
 ```
 <img src="https://github.com/yourAcc/any.gif" width="auto" height="auto" align="center">
@@ -171,13 +171,13 @@ I want to provide a direct link but which doesn't have its own heading.
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXduaHIzbnE1c3YzZnBvN3B4MWNhZ3o0eXFsaHM2MzJ1cTkzMTdkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nTfdeBvfgzV26zjoFP/giphy.gif" width="80" height=" 120px" align="center">
 
 
-# Video:
+# Videos
 well! well! well! you can only upload gif as your video format cause you need the gitbustercontent hashes. But you can solve this problem in so many ways. I'll just give u one. \
 
 [Host a Video on Github Pages for Free](https://www.youtube.com/watch?v=__dIztD5FSA)
 
 
-# Lists:
+# Lists
 
 Making lists in markdown is the most easiest thing.
 
@@ -213,7 +213,7 @@ Task lists:
  [Emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :robot:
 
 
-# Table:
+# Tables
 
 Colons can be used to align columns.
 ~~~
