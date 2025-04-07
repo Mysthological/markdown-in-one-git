@@ -98,6 +98,29 @@ Underline : <ins> </ins> :
 <ins> maybe,Who knows? </ins>
 
 ```
+Normal: <br>
+The quick brown fox jumps over the lazy dog. <br>
+
+Bold :	** double ** or __ double __ (Command+B) : <br>
+**The quick brown fox jumps over the lazy dog.** <br>
+__The quick brown fox jumps over the lazy dog.__ <br>
+
+Italic : * single like me 🥲 * or _ single _ Command+I : <br>
+*The quick brown fox jumps over the lazy dog.* <br>
+_The quick brown fox jumps over the lazy dog._ <br>
+
+Bold and Italic: **__ __** or *** *** : <br>
+**_The quick brown fox jumps over the lazy dog._** <br>
+
+Superscript: <sup> </sup> : <br>
+Subscript: <sup> </sup> : <br>
+The quick brown <sup>fox</sup> jumps over the lazy <sub>dog</sub>. <br>
+
+Strikethrough : ~~ ~~ or ~ ~ : <br>
+~~Are you happy?huh?!~~ <br>
+
+Underline : <ins> </ins> : <br>
+<ins> maybe,Who knows? </ins> <br>
 
 ## Blockquotes
 ```
