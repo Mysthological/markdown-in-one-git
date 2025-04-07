@@ -267,7 +267,7 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
-That's it now you know markdown. congrats🎊. <br> 
+That's it.Now you know markdown. congrats🎊. <br> 
 [Back to top](#top) [:arrow_up:](#top)
 
 
